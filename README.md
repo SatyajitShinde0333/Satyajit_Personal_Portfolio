@@ -28,8 +28,9 @@ sudo git clone https://github.com/SatyajitShinde0333/Satyajit_Personal_Portfolio
 Windows:
 
 ```bash
+```
 git clone https://github.com/SatyajitShinde0333/Satyajit_Personal_Portfolio.git
-```bash
+```
 
 ## Contact
 
