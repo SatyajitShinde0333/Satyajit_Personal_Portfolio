@@ -29,11 +29,11 @@ Windows:
 
 ```bash
 git clone https://github.com/SatyajitShinde0333/Satyajit_Personal_Portfolio.git
-```
+```bash
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.linkedin.com/in/satyajit0333).
+If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/satyajit0333).
 
 ## License
 
