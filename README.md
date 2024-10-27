@@ -1,4 +1,4 @@
-# Satyajit's - Personal portfolio
+# Satyajit's - Personal Portfolio
 
 
 
